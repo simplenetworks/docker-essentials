@@ -1,4 +1,4 @@
 FROM alpine:3.8
 
-RUN apk add --no-cache bash gawk sed grep bc coreutils git openssh curl rsync ncftp
+RUN apk add --no-cache bash gawk sed grep bc coreutils openssh curl rsync ncftp git
 
