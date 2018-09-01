@@ -12,3 +12,5 @@ A Docker image with essential tooling for development and CI/CD (bash, curl, ncf
 - coreutils
 - curl
 - ncftp
+- git
+- openssh
