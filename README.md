@@ -1,6 +1,6 @@
 # Docker Essentials
 
-A Docker image with essential tooling for development and CI/CD (bash, curl, ncftp, git, ...)
+A Docker image with essential tooling for development and CI/CD (bash, ssh, curl, ncftp, rsync, git, ...)
 
 ## Installed Packages
 
@@ -10,7 +10,8 @@ A Docker image with essential tooling for development and CI/CD (bash, curl, ncf
 - grep
 - bc
 - coreutils
+- openssh
 - curl
+- rsync
 - ncftp
 - git
-- openssh
