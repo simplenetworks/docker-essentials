@@ -1,2 +1,2 @@
-# docker-essentials
+# Docker Essentials
 A Docker image with essential tooling for development and CI/CD (bash, curl, ncftp, ...)
