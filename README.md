@@ -10,7 +10,7 @@ A Docker image with essential tooling for development and CI/CD (bash, ssh, curl
 - grep
 - bc
 - coreutils
-- openssh
+- openssh-client
 - curl
 - rsync
 - ncftp
